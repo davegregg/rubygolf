@@ -3,7 +3,7 @@
 ## Requirements
  * Install Ruby 2.4.1
  * Install RSpec 3.6.0
- * Run `bundle`
+ * Run `bundle` in project directory
 
 ## How to set up
 
