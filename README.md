@@ -12,4 +12,5 @@ Ruby Golf is a game whereby the player is required to solve a number of problems
 The first time you run this, all tests will fail. The aim is to get all test to pass. Building will also report the number of characters you took to complete the course. The fewer characters you use, the better.
 
 ## Acknowledgments
-Original version of Ruby Golf by github.com/andrewmcdonough/rubygolf
+Previous version: [Ruby Golf XING Core Cluster Edition](https://github.com/chrisdb/rubygolfXING)
+Original version: [Ruby Golf](https://github.com/andrewmcdonough/rubygolf)
